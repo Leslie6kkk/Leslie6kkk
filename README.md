@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Leslie (Xiaoke Li)!
 
-- 🔭 I have 1 yoe working as Software Engineer at a fast-growing Start-up and a Masters' degree in Electrical and Computer Engineering from the University of Waterloo.
+- 🔭 I have 1 yoe working as Software Engineer at a fast-growing start-up and a Masters' degree in Electrical and Computer Engineering from the University of Waterloo.
 - 😄 I am actively searching for junior software developer positions in CA right now!
 
 - 📫 Please Contact me by Phone / Email: (+1)2265811950 / xiaokeli2020@gmail.com
