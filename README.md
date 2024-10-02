@@ -4,7 +4,7 @@
 - 😄 I am actively searching for software developer/engineer positions in Ontario,CA right now!
 
 - 📫 Please Contact me by Phone / Email: (+1)2265811950 / xiaokeli2020@gmail.com
-- 😄 My interests: Software Engineering & Machine Learning
+- 😄 My interests: Interactive and responsive front-end development / building scalable and maintainable backend services.
 
 ### Feel free to check out my fun repositories!
 - [VoiceNow](https://github.com/Leslie6kkk/Voice-now-app-router) : An on-going individual web platform for users to create/join a poll and get up-to-date status about polls they interacted with.
