@@ -7,6 +7,7 @@
 - 😄 My interests: Software Engineering & Machine Learning
 
 ### Feel free to check out my fun repositories!
+- [VoiceNow](https://github.com/Leslie6kkk/Voice-now-app-router) : An on-going individual web platform for users to create/join a poll and get up-to-date status about polls they interacted with.
 - [EasyQ](https://github.com/Leslie6kkk/EasyQ--final-version) ： An web app that provides a platform for dynamically queuing for an office hour.
 - [InEvent](https://github.com/Leslie6kkk/InEvent) : An social media that helps with group event management through a calendar.
 - [Job Tracking Website](https://github.com/Leslie6kkk/My-Job-board.git) : A website for people seeking jobs to keep track of their applications.
